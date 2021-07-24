@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "eml-parser": "^1.0.6",
+        "express": "*"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
